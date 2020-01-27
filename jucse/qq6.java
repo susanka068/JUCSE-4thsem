@@ -3,7 +3,7 @@ import java.util.Scanner;
 {
    
 }*/
-public class q6
+public class qq6
 {
     public static void show(int t)
     {
