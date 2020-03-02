@@ -36,13 +36,17 @@ class instancellist
         float attr5 = r.nextFloat();
         arr[i] = new instance(attr1, attr2, attr3, attr4, attr5);
     }
-    
+    public void calculateavg()
+    {
+
+    }
+
 }
 
 public class sur1
 {
     public static void main(String[] args)
     {
-        
+             
     }
 }
